@@ -1,5 +1,7 @@
-# Hacker Rank - Save the Prisoner! ✔✔
+# Hacker Rank 
 Save the Prisoner! Challenge - Python3
+Compare the Triplets - Python3
+Simple Array Sum - Python3
 
 ## Challenges 
 
